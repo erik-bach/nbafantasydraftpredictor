@@ -1,4 +1,4 @@
-nbafantasydraftpredictor
+NBA Fantasy Draft Predictor
 ==============================
 
 Predicting the average draft position of NBA players in fantasy basketball using the previous season's statistics.
