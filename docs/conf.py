@@ -231,7 +231,7 @@ man_pages = [
 texinfo_documents = [
     ('index', 'nbafantasydraftpredictor', u'nbafantasydraftpredictor Documentation',
      u"Erik Bach", 'nbafantasydraftpredictor',
-     'Predicting the average draft position of NBA players in fantasy basketball using the previous season's statistics.', 'Miscellaneous'),
+     'Predicting the average draft position of NBA players in fantasy basketball using the previous season\'s statistics.', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.
